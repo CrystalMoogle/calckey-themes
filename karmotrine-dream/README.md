@@ -1,6 +1,10 @@
 # Karmotrine Dream Calckey Theme
 
+A dark-mode theme for Calckey/Misskey made with pink and slight purple colours
 
+
+I originally wanted to base this off of the VA-11 Hall-A UI. That did not work as good as expected, but I used that as a base to make a theme I'm mostly happy with.
+I tried to make it as readable as possible, but there's the occasional UI element that's a little hard to read that is not so easy to fix as I hoped. 
 
 ## Installing
 
